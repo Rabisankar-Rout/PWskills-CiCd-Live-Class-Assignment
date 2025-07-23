@@ -30,4 +30,4 @@ jobs:
        - name: Display content
          run: |
            ls -l downloaded-artifact/
-           cat downloaded-artifact/artifact.txt 
+           cat downloaded-artifact/artifact.txt  
